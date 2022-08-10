@@ -1,6 +1,7 @@
 # Nicholson-Bailey-Model
 
 ***
+This model illustrates the discrete time dynamics of host-parasite interaction.
 
 ## Without dispersion
 
